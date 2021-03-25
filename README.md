@@ -5,7 +5,7 @@
 
 [Demo](https://tenam.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/tenam)<br/>
 
-![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
+![preview](https://github.com/001pretty/10am/blob/main/10am-preview.png)
 
 **Description**<br />
 💬 A simple chat application built with socket.io.
