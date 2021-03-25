@@ -45,7 +45,7 @@ Chat rooms, messages and users are being emitted with socket.io.<br />
 
 ## Motivation
 
-The idea behind building this application was to practice aplicattions which emit data in real-time, from backend to frontend and other way around. For handling this I chose WebSockets library socket.io as it seemed one of the best at doing its job. As a theme for this application I chose coffee shop/wood/city/morning theme.
+The idea behind building this application was to practice application which emit data in real-time, from backend to frontend and other way around. For handling this I chose WebSockets library socket.io as it seemed one of the best at doing its job. As a theme for this application I chose coffee shop/wood/city/morning theme.
 
 <br/>
 
